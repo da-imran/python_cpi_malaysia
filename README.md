@@ -10,6 +10,6 @@
 #### Publicly available data from Malaysian government portals (10-year span).
 
 ## Significance
-#### Users can understand the factors heavily affecting COL in Malaysia. <br> Raise public awareness for informed financial decisions. <br> Enhance user understanding of Malaysia's economic landscape.
+#### Users can understand the factors heavily affecting cost of livings in Malaysia. <br> Raise public awareness for informed financial decisions. <br> Enhance user understanding of Malaysia's economic landscape.
 
 ### This repository consist of the project's poster and presentation file, a dashboard folder with Power BI, and a folder of the Python codes for the Machine Learning processes.
