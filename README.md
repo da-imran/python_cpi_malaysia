@@ -1,4 +1,4 @@
-<p align="center"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width="150" alt="Python"> <img src="https://img.shields.io/badge/PowerBI-005C84?style=for-the-badge&logo=powerbi&logoColor=white" width="165" alt="Power BI"/></p>
+<p align="center"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width="150" alt="Python"> <img src="https://img.shields.io/badge/PowerBI-FFD43B?style=for-the-badge&logo=powerbi&logoColor=blue" width="165" alt="Power BI"/></p>
 
 # Predictive Analysis on Cost of Living in Malaysia
 #### This is a final year project for my undegraduate degree in Universiti Teknologi Mara Shah Alam, Selangor, Malaysia. This project investigates the factors influencing the cost of living in Malaysia and develops a Machine Learning model to predict future cost of living indices. It leverages various machine learning algorithms and data visualization techniques to present insights and trends.
